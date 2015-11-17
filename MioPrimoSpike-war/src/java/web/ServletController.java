@@ -50,7 +50,7 @@ public class ServletController extends HttpServlet {
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Servlet che mostra i dati</title>");
+            out.println("<title>Servlet che mostra i dati sui libri</title>");
             out.println("</head>");
             out.println("<body>");
             RequestDispatcher rd = null;
