@@ -32,7 +32,7 @@
         <%@ include file="header2.jsp" %>
         <div class="jumbotron">
             <div class="container">
-                <h1>Hello, world!</h1>
+                <h1>Hello, world a tutti!</h1>
                 <p>This is a spike for J2EE simple web app</p>
                 <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
             </div>
